@@ -33,6 +33,10 @@ ffmpeg_binary_path = /usr/bin/ffmpeg
 
 [history]
 
+[spoolman]
+server = http://192.168.10.187:7912
+sync_rate = 5
+
 [update_manager]
 enable_auto_refresh = True
 
